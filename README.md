@@ -23,4 +23,4 @@ Développer un système permettant de commander à distance les aiguillages d’
 
 ## 🧑‍🔧 Auteur
 Projet réalisé par [MUZIRHU ZOZO Benjamin] – Technicien électromécanique  
-🔗Benjamin Zozo: sur LinkedIn 
+🔗 Projet réalisé par muzirhuzozo@gmail.com 
